@@ -1,0 +1,314 @@
+{
+    "basic_info": {
+      "description_header": "Hi!",
+      "description": "👋 I'm Zubin Mukherjee. I’m a software developer.Currently working in web development company where I create and maintain internal services within an agile environment at the Mindinventory. The technologies I primarily work with at the moment is React, Typescript, Go and Postgres.",
+      "philosophy": "I’m a young and motivated professional who is reliable and confident with proven skills and experience. I enjoy building interesting web apps and am quick to learn with good communication skills and the ability to work efficiently either individually or as part of a team in a professional environment. I’m committed to working in the IT industry, a skill and subject I am deeply passionate in.",
+      "preference": "I’m looking for a graduate role abroad, preferably in the Netherlands, although I am open to work anywhere for the right opportunity.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "education": "Education",
+        "expertise": "Expertise",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Staple",
+        "startDate": "2021",
+        "description": "",
+        "images": [
+          "images/portfolio/staple-first.png",
+          "images/portfolio/staple-detail.png",
+          "images/portfolio/staple-two.png",
+          "images/portfolio/staple-three.png"
+        ],
+        "url": "https://adamisafk.github.io/OracyBox/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "Postgres"
+          }
+        ]
+      },
+      {
+        "title": "Snug.com",
+        "startDate": "2020",
+        "description": "Using PolitiFact data, this a simple react application which aims to test your ability to identify which of two news articles is fake and real. Loading may take some time due to using a free-tier dyno in Heroku.",
+        "images": [
+          "images/portfolio/snug.png",
+          "images/portfolio/snug-1.png",
+          "images/portfolio/snug-2.png"
+        ],
+        "url": "https://snug.com/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-go-plain",
+            "name": "Golang"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "Postgres"
+          }
+        ]
+      },
+      {
+        "title": "Zoomin",
+        "startDate": "2020",
+        "description": "",
+        "images": [
+          "images/portfolio/zoomin.png",
+          "images/portfolio/zoomin-1.png"
+        ],
+        "url": "https://tetris.adamhowells.co.uk/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-go-plain",
+            "name": "Golang"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "Postgres"
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "company": "Bharati Vidhyapeeth Deemed University",
+        "title": "Master's Degree in Information Technology",
+        "years": "2017 - 2019",
+        "mainTech": [
+          "Software Engineering"
+        ],
+        "technologies": [
+          "Object-Oriented Programming",
+          "Web Development",
+          "Web Services",
+          "Programming and Software Testing",
+          "Agile/ Scrum Methodologies",
+          "Database Systems",
+          "Data Mining",
+          "Data Warehousing",
+          "Data Life Cycle",
+          "ERP solutions",
+          "Big Data (Data Science)"
+        ]
+      },
+      {
+        "company": "Mohanlal Sukhadia University",
+        "title": "Bachelor's Degree",
+        "description": "",
+        "years": "2014 - 2017",
+        "mainTech": [
+          "Computer Applications"
+        ],
+        "technologies": [
+          "Advanced Web Development",
+          "Advanced Routing and Switching",
+          "Wide Area Networks",
+          "Application Development",
+          "Business and Web",
+          "Project Management",
+          "Enterprise"
+        ]
+      }
+    ],
+    "expertise": {
+      "icons": [
+        {
+          "title": "Full-Stack Web Development",
+          "description": "I have skills and experience to develop full-stack web applications and services in a variety of technologies. My knowledge area for full-stack apps include HTML/CSS/JS, Golang (+ Express), Serverless (+ AWS Lambda) and React (+ Redux). I'm able to create and maintain APIs, web servers, and dockerized environments."
+        },
+        {
+          "title": "Database Systems",
+          "description": "I have a detailed level of understanding relational database management systems. I have experience with normalisation and a wide range of SQL languages, most notably MySQL/MariaDB, and NoSQL such as MongoDB and Redis. I also have the know-how to implement and use databases in software applications and RESTful APIs."
+        },
+        {
+          "title": "E-Commerce",
+          "description": "I have knowledge in business and have experience with developing an e-commerce site. The Business and Web module I undertook involved responsive web design through CSS frameworks, CMS such as Wordpress, and marketing include social media, email, and blogging."
+        },
+        {
+          "title": "Data Science",
+          "description": "I understand the difference between traditional and big data and big data strategies (aims, policies, plans, actions). I know how you're able to extract value (useful analysis) from large volumes of data from many data sources. I have experience with working with Apache Hadoop."
+        }
+      ]
+    },
+    "experience": [
+      {
+        "company": "Mindinventory",
+        "title": "Full Stack Developer",
+        "description": "I work at the MI as a software developer. My current role is to build UI and api for web applications. My responsibilities includes:",
+        "responsibilities" : [
+          "Worked on various types of web applications including",
+          "rental platforms",
+          "monitorting system",
+          "ecommerce platform",
+          "Worked on build api in Golang (mux) and Python",
+          "UI mainly focused on admin panels in React - GraphQL",
+          "Have experience with UI frameworks like bootstrap and material ui",
+          "Delivered skeletal stucture to company in FastAPI and flask",
+          "Manual unit testing using testing package in golan",
+          "Managed databases mostly postgres and MySQL",
+          "Experience in docker, AWS serverless lambda, API Gateways, S3 bucket and AWS Route53",
+          "Expert in linux/unix",
+          "Good with deployments using heroku, netlify and aws."
+        ],
+        "years": "09.2020 - present",
+        "mainTech": [
+          "Front End Development",
+          "Back End Development"
+        ],
+        "technologies": [
+          "React",
+          "Golang",
+          "Javascript",
+          "Postgres",
+          "Github",
+          "Linux",
+          "Unix",
+          "Postgres",
+          "Jest",
+          "Agile",
+          "Redis",
+          "Unit Testing",
+          "Stand ups"
+        ]
+      },
+      {
+        "company": "SASA",
+        "title": "Software Developer",
+        "description": "Worked on building social media platform for internet marketers where you can design your own post, sharing post, integrating social media platforms like(Facebook,Twitter and pinterest) and autoresponders.\n- Users can run there own campaign with analytics that user comes via which respective medium.\n- Analyze number of hits on particular links and target audience according to targeted area and domain specific.",
+        "responsibilities": [
+
+        ],
+        "years": "3 months",
+        "mainTech": [
+          "Back End Development"
+        ],
+        "technologies": [
+            "React",
+            "Javascript",
+            "MySql",
+            "Github",
+            "FileZilla",
+            "Linux"
+        ]
+      },
+      {
+        "company": "Netclues",
+        "title": "Jr. PHP Developer",
+        "description": "Building apis for CMS in PHP (laravel) and online booking system for live concerts and games. Users can run their own campaign with analytics that user comes via which respective medium.Analyze number of hits on particular links and target audience according to targeted area and domain specific.",
+        "responsibilities": [
+          "Building apis in php for cms",
+          "Creating and Maintaining APIs",
+          "Dynamic content for web apps",
+          "Used AJAX and JQUERY",
+          "SVN like github and FileZilla"
+        ],
+        "years": "9 months",
+        "mainTech": [
+          "Back End Development"
+        ],
+        "technologies": [
+            "Laravel - PHP",
+            "Javascript",
+            "AJAX",
+            "Github",
+            "FileZilla",
+            "Linux",
+            "HTML",
+            "CSS3",
+            "Boostrap",
+            "MySQL"
+        ]
+      },
+      {
+        "company": "Webyot Technologies",
+        "title": "PHP Intern",
+        "description": "",
+        "responsibilities": [
+          "Creating and Maintaining APIs",
+          "Dynamic content for web apps",
+          "Used AJAX and JQUERY",
+          "SVN like github and FileZilla"
+        ],
+        "years": "2 months",
+        "mainTech": [
+          "Back End Development"
+        ],
+        "technologies": [
+            "PHP",
+            "Javascript",
+            "AJAX",
+            "FileZilla",
+            "Linux",
+            "HTML",
+            "CSS3",
+            "Boostrap",
+            "MySQL"
+        ]
+      },
+      {
+        "company": "Shivanta Technologies",
+        "description": "",
+        "title": "PHP Intern",
+        "years": "4 months",
+        "mainTech": [
+          "Back End Development"
+        ],
+        "responsibilities": [
+          "Creating and Maintaining APIs",
+          "Dynamic content for web apps",
+          "Used AJAX and JQUERY",
+          "SVN like github and FileZilla"
+        ],
+        "technologies": [
+            "PHP",
+            "Javascript",
+            "AJAX",
+            "FileZilla",
+            "HTML",
+            "CSS3",
+            "MySQL"
+        ]
+      }
+    ]
+}

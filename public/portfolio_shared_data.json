@@ -1,0 +1,103 @@
+{
+    "basic_info": {
+      "name": "Zubin Mukherjee",
+      "titles": [ "Full-stack Developer", "Web Developer", "Software Developer", "Front End Developer", "Back End Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Zubin01",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/zubin-mukherjee-650b08144/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "email",
+          "url": "mailto:zubinmukherjee2466@gmail.com",
+          "class": "fa fa-envelope"
+        }
+      ],
+      "image": "myprofile.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Golang",
+          "class": "devicon-go-plain",
+          "level": "85"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "85"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original",
+          "level": "75"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "85"
+        },
+        {
+          "name": "Laravel",
+          "class": "devicon-laravel-plain",
+          "level": "65"
+        },
+        {
+          "name": "Postgres",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Redis",
+          "class": "devicon-redis-plain",
+          "level": "60"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
