@@ -27,37 +27,37 @@ class About extends Component {
                     <label className="d-inline-flex float-left progress-title">Javascript</label>
                   </div>
                   <div className="col progress-section">
-                    <ProgressBar striped text="js" variant="success" now={90} className="progress-bar"/>
+                    <ProgressBar className="progress-bars" striped variant="success" now={90}/>
                   </div>
                   <div className="col-12">
                     <label className="d-inline-flex float-left progress-title">HTML|CSS</label>
                   </div>
                   <div className="col progress-section ">
-                    <ProgressBar striped text="html-css" variant="success" now={90} className="progress-bar"/>
+                    <ProgressBar striped text="html-css" variant="success" now={90} className="progress-bars"/>
                   </div>
                   <div className="col-12">
                     <label className="d-inline-flex float-left progress-title">SQL</label>
                   </div>
                   <div className="col progress-section">
-                    <ProgressBar striped text="SQL" variant="success" now={70} className="progress-bar" animated/>
+                    <ProgressBar striped text="SQL" variant="success" now={70} className="progress-bars" animated/>
                   </div>
                   <div className="col-12">
                     <label className="d-inline-flex float-left progress-title">Golang</label>
                   </div>
                   <div className="col progress-section">
-                    <ProgressBar striped text="go" variant="success" now={90} className="progress-bar" animated/>
+                    <ProgressBar striped text="go" variant="success" now={90} className="progress-bars" animated/>
                   </div>
                   <div className="col-12">
                     <label className="d-inline-flex float-left progress-title">React</label>
                   </div>
                   <div className="col progress-section">
-                    <ProgressBar striped text="go" variant="success" now={80} className="progress-bar" animated/>
+                    <ProgressBar striped text="go" variant="success" now={80} className="progress-bars" animated/>
                   </div>
                   <div className="col-12">
                     <label className="d-inline-flex float-left progress-title">Bootstrap</label>
                   </div>
                   <div className="col progress-section">
-                    <ProgressBar striped text="go" variant="success" now={80} className="progress-bar" animated/>
+                    <ProgressBar striped text="go" variant="success" now={80} className="progress-bars" animated/>
                   </div>
                 </div>
               </div>
